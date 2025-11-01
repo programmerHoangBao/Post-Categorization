@@ -1,0 +1,6 @@
+/dataset
+/raw_data
+/__pycache__
+/.venv
+/.ipynb_checkpoints
+/model
